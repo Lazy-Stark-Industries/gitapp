@@ -1,4 +1,4 @@
-name: GitHub_Actions_Pipeline_Workflow
+name: GitHub_Actions_Pipeline_Workflows
 
 on:
   push:
