@@ -17,5 +17,5 @@ jobs:
       uses: Azure/pipelines@v1
       with:
         azure-devops-project-url: https://dev.azure.com/Hexaware-Training/AgileProject
-        azure-pipeline-name: "Lazy-Stark-Industries.gitapp"
+        azure-pipeline-name: "GitApp_Actions"
         azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
